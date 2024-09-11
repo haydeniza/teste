@@ -1,0 +1,22 @@
+
+
+body {
+    background-color: #fff;   
+}
+
+.form-control h1 {
+    color: red;
+
+}
+
+.form-control {
+    margin:0px;
+    padding: 2px;
+    width: 20vw;
+    height: 190px;
+    background: #fff;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+ 
